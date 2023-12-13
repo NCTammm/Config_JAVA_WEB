@@ -7,7 +7,7 @@
 </dependency>
 ```
 
-## SPRING 
+## SPRING SECURITY
 ```xml
 <dependency>
     <groupId>org.springframework.boot</groupId>
